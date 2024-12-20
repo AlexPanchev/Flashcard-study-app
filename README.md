@@ -1,2 +1,2 @@
-# 🗂️flashcard-study-app
+# 🗂️Flashcard study app
 
