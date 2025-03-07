@@ -7,15 +7,26 @@ In the program I have used basic OOP concepts are used: classes, objects. Organi
 
 # System operation:
 
+In the current program for developing various cards, objects have been created through two classes.
+In the first class, the objects of the various cards themselves with the corresponding questions and answers to them have been created.
+In the second class, the cards are recorded and stored in a dictionary to facilitate the use and organization of the information in them.
+
+From the main menu, the user can select the corresponding function of the program to:
+- create a new card with the corresponding question and answer to it
+- change an existing card
+- delete a card
+- retrieve a list of all cards already added to the dictionary
+
+Validations have been added to the code to check that the user has not entered an invalid option in the menu and to avoid other errors when executing the methods.
 
 # Screenshots:
 
-✔️ Menu:
+🔢 Menu:
 
 ![Screenshot 2025-03-06 140620](https://github.com/user-attachments/assets/27a37640-88f2-49d2-b586-a3f6e2c7c91d)
 
 
-✔️ Add a new Flashcard 🆕
+ Add a new Flashcard 🆕
 
 ![Screenshot 2025-03-06 140708](https://github.com/user-attachments/assets/33867d09-f3a7-4e0c-9b7c-6dfc04fd402e)
 
