@@ -1,6 +1,13 @@
 # 🗂️Flashcard study app
 This application employs a flashcard-based methodology to facilitate efficient learning.
 
+# Solution:
+
+In the program I have used basic OOP concepts are used: classes, objects. Organize Python code into multiple modules and maintain clear, reusable class structures. Strictly separate individual class structures and their methods. Separate code into separate actions, relative to the main menu of the program.
+
+
+
+
 # Screenshots
 
 ✔️ Menu:
