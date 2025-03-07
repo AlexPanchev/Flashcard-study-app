@@ -8,7 +8,7 @@ In the program I have used basic OOP concepts are used: classes, objects. Organi
 # System operation:
 
 
-# Screenshots
+# Screenshots:
 
 ✔️ Menu:
 
