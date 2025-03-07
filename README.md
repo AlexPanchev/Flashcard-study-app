@@ -31,7 +31,7 @@ Validations have been added to the code to check that the user has not entered a
 ![Screenshot 2025-03-06 140708](https://github.com/user-attachments/assets/33867d09-f3a7-4e0c-9b7c-6dfc04fd402e)
 
 
-✔️ List all the added Flashcards 📋
+📃 List all the added Flashcards 📋
 
 ![Screenshot 2025-03-06 140938](https://github.com/user-attachments/assets/623d596b-0b57-4e7d-bff0-33a422db94e0)
 
