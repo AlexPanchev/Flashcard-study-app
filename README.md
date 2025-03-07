@@ -26,7 +26,7 @@ Validations have been added to the code to check that the user has not entered a
 ![Screenshot 2025-03-06 140620](https://github.com/user-attachments/assets/27a37640-88f2-49d2-b586-a3f6e2c7c91d)
 
 
- Add a new Flashcard 🆕
+🆕 Add a new Flashcard 🆕
 
 ![Screenshot 2025-03-06 140708](https://github.com/user-attachments/assets/33867d09-f3a7-4e0c-9b7c-6dfc04fd402e)
 
